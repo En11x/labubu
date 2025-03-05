@@ -2,8 +2,8 @@
 </script>
 
 <template>
-  <div>
-    vite
+  <div class="text-3xl">
+    Labubu
   </div>
 </template>
 
